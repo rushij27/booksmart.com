@@ -11,7 +11,7 @@ Wait for it coming soon.....!
 ## Authors
 
 - [Rushiikesh](https://www.github.com/rushij27)
-- [Vidya](https://github.com/VidyaAg))
+- [Vidya](https://github.com/VidyaAg)
 
 
 ## Feedback
