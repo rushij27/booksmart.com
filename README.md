@@ -1,5 +1,5 @@
 
-# Boomkart.com
+# Goodsmart.com
 
 A shopping application making users go crazy for the UI/UX. Enhanced with advanced frontend technologies.
 
@@ -16,5 +16,5 @@ Wait for it coming soon.....!
 
 ## Feedback
 
-If you have any feedback, please reach out to us at abcrushij@gmail.com
+If you have any feedback, please reach out to us at goodsmart@mailinator.com
 
